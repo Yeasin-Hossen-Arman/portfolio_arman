@@ -24,7 +24,7 @@ function Hero() {
       <div class="flex md:justify-end w-full md:w-1/2 -mt-5 ">
          <div class="bg-dots">
             <div class="flex flex-col justify-center shadow-2xl max-w-md z-10 rounded-full mt-6 ml-4 ">
-               <img alt="card img" width="150px" height="20px" class="rounded-t ml-24" src="src\assets\file.png" /> 
+               <img alt="card img" width="150px" height="20px" class="rounded-t ml-24" src="https://github.com/Yeasin-Hossen-Arman/ML_Course_SKITBI/blob/main/Src/file.png?raw=true" /> 
                <div class="text-2xl p-10 bg-white">I'm passionate with Python, Django, Flask, Machine learning, Deep learning, Computer vision and image processing</div>
             </div>
          </div>
